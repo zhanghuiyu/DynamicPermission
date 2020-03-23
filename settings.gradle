@@ -1,0 +1,2 @@
+include ':app', ':dynamicpermissionlib', ':mylibrary'
+rootProject.name='DynamicPermission'
